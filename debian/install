@@ -1,0 +1,2 @@
+*.channel /etc/channels.d
+*.provider /etc/channels.d
